@@ -1,3 +1,11 @@
 The Open Systems Interconnection reference model (The OSI Model)
 
 Created in 1978 and revised in 1984.
+
+All (Application Layer)
+People (Presentation Layer)
+Seem (Session Layer)
+To (Transport Layer)
+Need (Network Layer)
+Data (Data Link Layer)
+Processing (Physical Layer)
