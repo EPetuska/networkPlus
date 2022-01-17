@@ -1,8 +1,9 @@
 List of networking protocols
 
 
-TCP -
-UDP -
-IPSec -
-GRE -
-FTP - 
+TCP - Transmission Control Protocol
+UDP - User Datagram Protocol
+IPSec - IP Security
+GRE - Generic Routing Encapsulation
+FTP - File Transfer Protocol
+SSH - Secure Shell
